@@ -4,9 +4,11 @@
     "\\assets",
     "\\assets\\css",
     "\\assets\\css\\scss",
+    "\\assets\\fonts",
     "\\assets\\img",
-    "\\_layouts",
+    "\\_includes",
     "\\_posts"
   ],
+  "SelectedNode": "\\_posts\\2022-05-02-20220502.markdown",
   "PreviewInSolutionExplorer": false
 }
